@@ -2,7 +2,7 @@
 
 <!--
 **Two-Jay/Two-Jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Two-Jay)](https://solved.ac/Two-Jay)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
