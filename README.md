@@ -8,7 +8,7 @@
 - 📖 I’m currently learning Full-Stack Development, especially Node.js & Python.
 - 👀 I’m looking to collaborate on Open-source Projects.
 - 🏢 I'm looking for work position as a junior back-end developer
-- 📩 Ask me anything if you want by email.
+- 📩 Ask me anything by email if you want.
 
 ***********************************
 
