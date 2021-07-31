@@ -12,12 +12,3 @@
 ---
 
 [![jekim's 42 stats](https://badge42.herokuapp.com/api/stats/jekim)](https://github.com/JaeSeoKim/badge42)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
