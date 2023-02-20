@@ -6,7 +6,6 @@
 
 - 🧑‍💻 I'm Jeongjun Aiden Kim from South Korea.
 - 📖 I’m currently learning in 42Seoul.
-- 👀 I’m looking to collaborate on Open-source Projects.
 - 📩 Ask me anything by email if you want.
 
 ---
