@@ -41,4 +41,3 @@
   <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">
 
   <br>
-<\div>
