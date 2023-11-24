@@ -10,15 +10,6 @@
 
 ---
 
-
-
-<style>
-    img {
-        resize: both;
-
-        height: 50px;
-    }
-</style>
 <br>
 <div align=left>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
